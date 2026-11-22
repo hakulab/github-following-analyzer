@@ -4,6 +4,7 @@ direnv
 dotenv
 envrc
 Hakula
+hakulab
 mktemp
 nixfmt
 nixos
