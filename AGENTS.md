@@ -6,7 +6,7 @@
 
 | When the change touches           | Read                                                                                                                              |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| CI or a workflow                  | [devkit's CI guide](https://github.com/hakula139/devkit/blob/v3/docs/ci.md)                                                       |
+| CI or a workflow                  | [devkit's CI guide](https://github.com/hakulab/devkit/blob/v3/docs/ci.md)                                                         |
 | API requests or response handling | [GitHub REST users](https://docs.github.com/en/rest/users/users) and [followers](https://docs.github.com/en/rest/users/followers) |
 
 ## Project contracts
