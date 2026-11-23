@@ -46,7 +46,7 @@
           runtimeInputs = [ pkgs.gh ];
           meta = {
             description = "Find GitHub accounts you follow that do not follow you back";
-            homepage = "https://github.com/hakula139/github-following-analyzer";
+            homepage = "https://github.com/hakulab/github-following-analyzer";
             license = pkgs.lib.licenses.mit;
           };
         };
